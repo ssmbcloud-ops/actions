@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ssmbct/3e2956f1-f10f-46c7-8726-95436c0750fb/6472532e-8065-4965-b5d4-48ea3f91f36d/_apis/work/boardbadge/a0b099fd-f394-4337-8391-37f75e84b28c)](https://dev.azure.com/ssmbct/3e2956f1-f10f-46c7-8726-95436c0750fb/_boards/board/t/6472532e-8065-4965-b5d4-48ea3f91f36d/Microsoft.RequirementCategory)
 # GitHub Actions for deploying to Azure
 
 [GitHub Actions](https://help.github.com/en/articles/about-github-actions)  gives you the flexibility to build an automated software development lifecycle workflow. 
